@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 require 'byebug'
-
+require 'JSON'
 
 User.destroy_all
 
